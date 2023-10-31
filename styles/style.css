@@ -1,0 +1,40 @@
+body {
+  background-color: white;
+}
+
+h1 {
+  background-color: black;
+  color: salmon;
+  font-family: Righteous;
+  font-size: 50px;
+  text-align: center;
+  padding: 50px;
+}
+
+nav {
+  background-color: salmon;
+  color: black;
+  padding: 10px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+footer {
+  background-color: lightgrey;
+  padding: 25px;
+}
