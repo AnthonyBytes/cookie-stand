@@ -34,7 +34,31 @@ nav a {
   font-weight: bold;
 }
 
+.salmonPic {
+  max-width: 100%;
+  text-align: center;
+}
+
+.separator {
+  border: none;
+  height: 2px;
+  background-color: lightgrey;
+  margin: 20px 0;
+}
+
+h2 {
+  font-size: 25px;
+  margin: 25px;
+  margin-bottom: 10px;
+  font-family: Righteous;
+}
+
+li {
+margin-left: 50px;
+}
+
 footer {
   background-color: lightgrey;
   padding: 25px;
+  margin-top: 25px;
 }
