@@ -62,3 +62,28 @@ footer {
   padding: 25px;
   margin-top: 25px;
 }
+
+table * {
+border: 1px solid black;
+padding: 20px;
+}
+
+thead {
+font-weight: bold;
+}
+
+tbody {
+
+}
+
+tfoot {
+
+}
+
+th {
+
+}
+
+tr {
+
+}
