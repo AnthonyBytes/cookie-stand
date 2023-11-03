@@ -11,22 +11,34 @@
   </head>
 
   <body>
-      <header>
-          <h1>Welcome to Pat's Salmon Cookies!</h1>
-          <nav>
-              <ul>
-                  <li><a href="index.html">Home</a></li>
-                  <li><a href="sales.html">Sales Data</a></li>
-              </ul>
-          </nav>
-      </header>
+    <header>
+      <h1>Welcome to Pat's Salmon Cookies!</h1>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="sales.html">Sales Data</a></li>
+        </ul>
+      </nav>
+    </header>
 
+    <body>
       <main>
+        <form id="locationForm"></form>
+
+        <input name="locationName" id="locationName" placeholder="Store Location">
+
+        <input name="minCusPerHr" id="minCusPerHr" placeholder="Minimum Customers">
+
+        <input name="maxCusPerHr" id="maxCusPerHr" placeholder="Max Customers">
+
+        <input name="avgCookiesPerSale" id="avgCookiesPerSale" placeholder="Average Cookies Per Sale">
+
+        <button type="submit">Click Here to Add</button>
         <div id="salesPage"></div>
       </main>
 
       <footer>
-          <p>&copy; 2023 Pat's Salmon Cookies</p>
+        <p>&copy; 2023 Pat's Salmon Cookies</p>
       </footer>
 
       <script src="js/sales.js"></script>

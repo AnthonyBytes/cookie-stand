@@ -1,15 +1,22 @@
 # cookie-stand
 
-LAB - 6
+LAB - 9
 Project Salmon Cookies
-I build an app with a direct and powerful purpose. It does all of the things that it accomplishes well. I should describe the purpose and functionality so those that visit my README understand the app
-
 Author: Anthony Blanton
-Links and Resources
-submission PR
-Any Links you used as reference
-Lighthouse Accessibility Report Score 90
-Provide a screenshot of your score after running a Lighthouse Accessibility report.
-![Lighthouse](lighthouse.png)
-Reflections and Comments
-Struggled to get a different number for each li item. Will seek assistance and continue to work on this.
+
+## Lighthouse Accessibility Report Score
+
+- Home (index.html) = 80
+<img src="img/home-lighthouse-score.png">
+
+- Sales (sales.html) =
+<img src="img/sales-lighthouse.png">
+
+## Today I:
+- Updated the homepage to meet all requirements.
+- worked on table to and completed foot
+- worked to add new input feature on top of table
+- did some css work to make things look pretty
+
+## Reflections and Comments
+- Lab 9 was tricky, not unlike all the labs this week. I still need time to finish up a few things on each lab, so looking forward to the weekend to continue working.
