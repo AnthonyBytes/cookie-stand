@@ -112,4 +112,6 @@ border: none;
 
 tbody td:last-child {
   background-color: grey;
+  color: white;
+
 }
