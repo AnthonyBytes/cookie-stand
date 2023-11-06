@@ -18,4 +18,4 @@ Author: Anthony Blanton
 - did some css work to make things look a little better
 
 ## Reflections and Comments
-- Lab 9 was tricky, not unlike all the labs this week. I still need time to finish up a few things on each lab, so looking forward to the weekend to continue working.
+- Updated lab10b with finished JS
