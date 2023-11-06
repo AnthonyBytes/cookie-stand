@@ -107,9 +107,9 @@ tfoot {
 }
 
 th {
-
+border: none;
 }
 
-tr {
-
+tbody td:last-child {
+  background-color: grey;
 }

@@ -1,6 +1,6 @@
 # cookie-stand
 
-LAB - 9
+LAB - 10b
 Project Salmon Cookies
 Author: Anthony Blanton
 
@@ -9,14 +9,13 @@ Author: Anthony Blanton
 - Home (index.html) = 80
 <img src="img/home-lighthouse-score.png">
 
-- Sales (sales.html) =
+- Sales (sales.html) = 94
 <img src="img/sales-lighthouse.png">
 
 ## Today I:
-- Updated the homepage to meet all requirements.
-- worked on table to and completed foot
-- worked to add new input feature on top of table
-- did some css work to make things look pretty
+- completed js for table.
+- completed js for the input feature at top
+- did some css work to make things look a little better
 
 ## Reflections and Comments
 - Lab 9 was tricky, not unlike all the labs this week. I still need time to finish up a few things on each lab, so looking forward to the weekend to continue working.
